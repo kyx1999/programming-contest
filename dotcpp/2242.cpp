@@ -1,4 +1,4 @@
-//https://www.dotcpp.com/oj/problem2242.html
+// https://www.dotcpp.com/oj/problem2242.html
 #include <algorithm>
 #include <vector>
 #include <stdio.h>
